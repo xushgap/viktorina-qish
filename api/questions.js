@@ -5,7 +5,8 @@ module.exports = async (req, res) => {
   if (process.env.TEACHER_PASS && pass!==process.env.TEACHER_PASS)
     return res.status(401).json({error:"Parol noto'g'ri"});
   const model = process.env.GEMINI_MODEL||"gemini-2.5-flash";
-  const prompt = `${grade}-sinf informatika. Mavzu: "${topic}". 12 ta test savoli. O'zbek tilida lotin yozuvida. FAQAT JSON massiv: [{"q":"savol","o":["A","B","C","D"],"c":0}]. c=to'g'ri javob indeksi 0-3.`;
+ const count = grade <= 2 ? 6 : 12;
+const prompt = `${grade}-sinf o'quvchisi uchun "${topic}" mavzusida ${count} ta savol. ${grade<=2?"Juda sodda, rasmli tushunchalar, qisqa savollar.":""} FAQAT JSON: [{"q":"savol","o":["A","B","C","D"],"c":0}]`;
   try {
     const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,{
       method:"POST",

@@ -1,0 +1,346 @@
+{
+  "1": {
+    "Kompyuter bilan tanishuv": [
+      {"q":"Kompyuter nima?","o":["Ovqat pishirish qurilmasi","Axborot bilan ishlaydigan elektron qurilma","Musiqa tinglash uchun qurilma","Televizor turi"],"c":1},
+      {"q":"Kompyuterning asosiy qismlari qaysilar?","o":["Stol va stul","Monitor, tizim bloki, klaviatura, sichqoncha","Kitob va daftar","Qalam va ruchka"],"c":1},
+      {"q":"Monitor nima uchun kerak?","o":["Ovoz chiqarish uchun","Ma'lumotlarni ekranda ko'rsatish uchun","Internet uchun","Chop etish uchun"],"c":1},
+      {"q":"Klaviatura nima?","o":["Ma'lumot kiritish qurilmasi","Ma'lumot chiqarish qurilmasi","Saqlash qurilmasi","Ko'rsatish qurilmasi"],"c":0},
+      {"q":"Sichqoncha nima uchun ishlatiladi?","o":["Matn yozish uchun","Ekrandagi ob'ektlarni boshqarish uchun","Ovoz yozish uchun","Rasm chop etish uchun"],"c":1},
+      {"q":"Printer nima?","o":["Kiritish qurilmasi","Saqlash qurilmasi","Chop etish qurilmasi","Ko'rsatish qurilmasi"],"c":2},
+      {"q":"Qaysi qurilma ovoz chiqaradi?","o":["Monitor","Klaviatura","Dinamik (kolonka)","Sichqoncha"],"c":2},
+      {"q":"Kompyuterda qaysi tugma yoqadi?","o":["Delete","Power (Quvvat)","Enter","Escape"],"c":1},
+      {"q":"Tizim bloki nima?","o":["Kompyuterning miyasi","Ekran","Klaviatura","Sichqoncha"],"c":0},
+      {"q":"Qaysi qurilma rasm chop etadi?","o":["Skaner","Monitor","Printer","Kamera"],"c":2},
+      {"q":"Skaner nima qiladi?","o":["Rasm chizadi","Rasmni kompyuterga kiritadi","Ovoz yozadi","Internet ulaydi"],"c":1},
+      {"q":"Kompyuter bilan ishlashda eng muhim narsa nima?","o":["Tez bosish","Ehtiyotkorlik va qoidalarga rioya qilish","Ko'p o'tirish","Ovqat yeyish"],"c":1}
+    ],
+    "Sichqoncha va klaviatura": [
+      {"q":"Sichqonchaning chap tugmasi nima qiladi?","o":["O'chiradi","Tanlaydi va bosadi","Yopadi","Saqlaydi"],"c":1},
+      {"q":"Sichqonchaning o'ng tugmasi nima ko'rsatadi?","o":["Hujjat ochadi","Kontekst menyu chiqaradi","Dastur yopadi","Fayl saqlaydi"],"c":1},
+      {"q":"Klaviaturada Enter tugmasi nima qiladi?","o":["O'chiradi","Yangi qator boshlaydi yoki tasdiqlaydi","Saqlaydi","Yopadi"],"c":1},
+      {"q":"Backspace tugmasi nima qiladi?","o":["Oldinga o'tadi","Chapga belgi o'chiradi","Saqlaydi","Yangi qator ochadi"],"c":1},
+      {"q":"Space (bo'sh joy) tugmasi nima qiladi?","o":["Saqlaydi","So'zlar orasiga bo'sh joy qo'yadi","O'chiradi","Yopadi"],"c":1},
+      {"q":"Caps Lock nima qiladi?","o":["Kompyuterni o'chiradi","Katta harflar yozish rejimini yoqadi","Saqlaydi","Internet ochadi"],"c":1},
+      {"q":"Delete tugmasi nima qiladi?","o":["Saqlaydi","O'ngdagi belgini o'chiradi","Yangi fayl ochadi","Yopadi"],"c":1},
+      {"q":"Sichqonchani ikki marta tez bosish nima deyiladi?","o":["Bir marta bosish","Ikki marta bosish (double click)","Siljitish","Aylanitirish"],"c":1},
+      {"q":"Klaviaturada nechta asosiy qator bor?","o":["2 ta","3 ta","4 ta","5 ta"],"c":2},
+      {"q":"Esc tugmasi nima qiladi?","o":["Saqlaydi","Bekor qiladi yoki chiqadi","Yangi ochadi","Bosib chiqaradi"],"c":1},
+      {"q":"Sichqonchaning g'ildiragi nima uchun?","o":["Bosish uchun","Sahifani aylantirish uchun","O'chirish uchun","Saqlash uchun"],"c":1},
+      {"q":"Tab tugmasi nima qiladi?","o":["O'chiradi","Keyingi maydoniga o'tadi","Saqlaydi","Yopadi"],"c":1}
+    ],
+    "Paint dasturi": [
+      {"q":"Paint dasturi nima uchun?","o":["Hisob-kitob uchun","Rasm chizish uchun","Matn yozish uchun","Musiqa tinglash uchun"],"c":1},
+      {"q":"Paint'da chiziq chizish uchun qaysi asbob?","o":["O'chirg'ich","Chiziq asbob","Bo'yoq chelak","Qalam"],"c":1},
+      {"q":"Paint'da rangni qanday o'zgartirish mumkin?","o":["Klaviaturadan","Rang palitrasidan","Sichqonchani aylantirib","Printer orqali"],"c":1},
+      {"q":"Paint'da rasmni saqlash uchun qaysi tugmalar?","o":["Ctrl+P","Ctrl+S","Ctrl+Z","Ctrl+C"],"c":1},
+      {"q":"O'chirg'ich asbob nima qiladi?","o":["Rang beradi","Chizadi","Rasm qismini o'chiradi","Saqlaydi"],"c":2},
+      {"q":"Bo'yoq chelak asbob nima qiladi?","o":["Chiziq chizadi","Yopiq joyni rang bilan to'ldiradi","O'chiradi","Kesadi"],"c":1},
+      {"q":"Paint'da Ctrl+Z nima qiladi?","o":["Saqlaydi","Oxirgi amalni bekor qiladi","Chop etadi","Yopadi"],"c":1},
+      {"q":"Paint'da to'rtburchak chizish uchun?","o":["Qalam asbob","Shakllar bo'limidan to'rtburchak","O'chirg'ich","Bo'yoq chelak"],"c":1},
+      {"q":"Paint'da rasm ochish uchun?","o":["Fayl → Ochish","Fayl → Saqlash","Fayl → Yangi","Fayl → Chop etish"],"c":0},
+      {"q":"Paint'da aylana chizish uchun?","o":["Chiziq asbob","Shakllar bo'limidan aylana","Qalam","O'chirg'ich"],"c":1},
+      {"q":"Paint'da rasm kattaligini o'zgartirish uchun?","o":["Rasm → Kattalikni o'zgartirish","Fayl → Saqlash","Ko'rish → Kattalashtirish","Tahrirlash → Kesish"],"c":0},
+      {"q":"Paint'da matn yozish uchun qaysi asbob?","o":["Qalam","A (Matn) asbob","Bo'yoq chelak","Chiziq"],"c":1}
+    ]
+  },
+  "2": {
+    "Kompyuter qurilmalari": [
+      {"q":"Qaysi qurilma kiritish qurilmasi?","o":["Monitor","Printer","Klaviatura","Dinamik"],"c":2},
+      {"q":"Qaysi qurilma chiqarish qurilmasi?","o":["Klaviatura","Sichqoncha","Monitor","Skaner"],"c":2},
+      {"q":"Hard disk nima?","o":["Kiritish qurilmasi","Ma'lumot saqlash qurilmasi","Chiqarish qurilmasi","Tarmoq qurilmasi"],"c":1},
+      {"q":"Qancha xotira kattaroq: 1 GB yoki 1 MB?","o":["1 MB","Teng","1 GB","Farq yo'q"],"c":2},
+      {"q":"USB flesh xotira nima uchun?","o":["Internet uchun","Ma'lumotlarni saqlash va ko'chirish uchun","Rasm chizish uchun","Ovoz uchun"],"c":1},
+      {"q":"Qaysi qurilma ovoz kiritadi?","o":["Dinamik","Mikrofon","Printer","Monitor"],"c":1},
+      {"q":"Veb-kamera nima qiladi?","o":["Ovoz yozadi","Video va rasm oladi","Chop etadi","Saqlaydi"],"c":1},
+      {"q":"Qaysi qurilmasiz kompyuter ishlamaydi?","o":["Printer","Skaner","Tizim bloki (protsessor)","Veb-kamera"],"c":2},
+      {"q":"CD/DVD disk nima uchun?","o":["Internet uchun","Ma'lumot saqlash uchun","Chop etish uchun","Ovoz uchun"],"c":1},
+      {"q":"Monitor qanday qurilma?","o":["Kiritish","Saqlash","Chiqarish","Tarmoq"],"c":2},
+      {"q":"Qaysi qurilma eng ko'p ma'lumot saqlaydi?","o":["USB flesh (8GB)","Hard disk (1TB)","CD disk","Disket"],"c":1},
+      {"q":"Simsiz sichqoncha qanday ishlaydi?","o":["Sim orqali","Bluetooth yoki radio to'lqin orqali","Internet orqali","Batareya orqali to'g'ridan"],"c":1}
+    ],
+    "Fayl va papka": [
+      {"q":"Fayl nima?","o":["Kompyuterdagi papka","Kompyuterda saqlangan ma'lumot birligi","Dastur turi","Internet sahifasi"],"c":1},
+      {"q":"Papka nima uchun?","o":["Fayllarni guruhlash va tartibli saqlash uchun","Internet uchun","Rasm chizish uchun","Matn yozish uchun"],"c":0},
+      {"q":"Fayl nomidan keyin nuqta va harflar nima deyiladi?","o":["Fayl nomi","Kengaytma (расширение)","Papka nomi","Yo'l"],"c":1},
+      {"q":".txt kengaytmali fayl qanday fayl?","o":["Rasm fayli","Matn fayli","Musiqa fayli","Dastur fayli"],"c":1},
+      {"q":".jpg kengaytmali fayl nima?","o":["Matn fayli","Video fayl","Rasm fayli","Musiqa fayli"],"c":2},
+      {"q":"Faylni o'chirish uchun qaysi tugma?","o":["Enter","Backspace","Delete","Escape"],"c":2},
+      {"q":"Faylni nusxalash uchun qaysi tugmalar?","o":["Ctrl+X","Ctrl+C","Ctrl+V","Ctrl+Z"],"c":1},
+      {"q":"Faylni joylashtirish uchun qaysi tugmalar?","o":["Ctrl+C","Ctrl+X","Ctrl+Z","Ctrl+V"],"c":3},
+      {"q":"Faylni ko'chirish (cut) uchun qaysi tugmalar?","o":["Ctrl+C","Ctrl+V","Ctrl+X","Ctrl+Z"],"c":2},
+      {"q":"Ish stoli (Desktop) nima?","o":["Internet sahifasi","Kompyuter yoqilganda ko'rinadigan asosiy ekran","Papka turi","Dastur nomi"],"c":1},
+      {"q":"Savatcha (Recycle Bin) nima?","o":["Yangi papka","O'chirilgan fayllar saqlanadigan joy","Internet brauzeri","Rasm dasturi"],"c":1},
+      {"q":"Faylni qayta nomlash uchun?","o":["Bir marta bosish","F2 tugmasi yoki o'ng tugma → Qayta nomlash","Delete bosish","Ctrl+S bosish"],"c":1}
+    ]
+  },
+  "3": {
+    "Axborot va uning turlari": [
+      {"q":"Axborot nima?","o":["Faqat rasm","Bizga kerakli ma'lumot yoki xabar","Faqat matn","Faqat ovoz"],"c":1},
+      {"q":"Axborotning qaysi turi ko'rish orqali qabul qilinadi?","o":["Ovozli","Ko'rgazmali (vizual)","Hid orqali","Teginish orqali"],"c":1},
+      {"q":"Axborotni saqlash vositasiga misol?","o":["Qalam","Kitob, disk, flesh xotira","Stol","Oyna"],"c":1},
+      {"q":"Raqamli axborot degani nima?","o":["Faqat raqamlar yozilgan","Kompyuter tushunadigan 0 va 1 lar ko'rinishidagi axborot","Faqat telefon raqamlari","Hisob-kitob natijalari"],"c":1},
+      {"q":"Axborotni uzatish vositasiga misol?","o":["Kitob","Telefon, internet, radio","Daftar","Qalam"],"c":1},
+      {"q":"Qaysi axborot turi musiqa tinglashga tegishli?","o":["Ko'rgazmali","Ovozli","Matnli","Raqamli"],"c":1},
+      {"q":"Gazeta qanday axborot manbai?","o":["Ovozli","Matnli va ko'rgazmali","Raqamli","Hid orqali"],"c":1},
+      {"q":"Internet nima?","o":["Kompyuter dasturi","Butun dunyodagi kompyuterlarni bog'laydigan tarmoq","Fayl turi","Operatsion tizim"],"c":1},
+      {"q":"Axborotni qayta ishlash nima?","o":["Axborotni o'chirish","Axborotni yangi axborot olish uchun o'zgartirish","Axborotni saqlash","Axborotni uzatish"],"c":1},
+      {"q":"Qaysi qurilma axborotni saqlaydi?","o":["Monitor","Hard disk","Printer","Klaviatura"],"c":1},
+      {"q":"Kitob qanday axborot saqlash vositasi?","o":["Raqamli","An'anaviy (qog'oz)","Optik","Magnit"],"c":1},
+      {"q":"Axborot texnologiyasi nima?","o":["Faqat kompyuter","Axborot bilan ishlash usul va vositalari majmui","Faqat internet","Faqat telefon"],"c":1}
+    ],
+    "Algoritm tushunchasi": [
+      {"q":"Algoritm nima?","o":["Kompyuter dasturi","Maqsadga erishish uchun ketma-ket buyruqlar","Matematik formula","Dasturlash tili"],"c":1},
+      {"q":"Algoritmning qanday xossalari bor?","o":["Tushunarlillik, aniqlik, cheklilik","Faqat tushunarlillik","Faqat aniqlik","Cheksizlik"],"c":0},
+      {"q":"Kundalik hayotdan algoritm misoli?","o":["Televizor ko'rish","Choy tayyorlash tartibi","Uxlash","O'ynash"],"c":1},
+      {"q":"Chiziqli algoritm nima?","o":["Tarmoqlanuvchi algoritm","Buyruqlar ketma-ket, shartlarsiz bajariladi","Siklli algoritm","Murakkab algoritm"],"c":1},
+      {"q":"Tarmoqlanuvchi algoritm nima?","o":["Hamma buyruq bajariladi","Shartga qarab turli yo'l tanlanadi","Sikl ishlatiladi","Faqat bir marta bajariladi"],"c":1},
+      {"q":"Siklli algoritm nima?","o":["Bir marta bajariladigan","Ba'zi buyruqlar qayta-qayta bajariladigan","Tarmoqlanuvchi","Chiziqli"],"c":1},
+      {"q":"Blok-sxema nima?","o":["Dastur kodi","Algoritmni grafik ko'rinishda tasvirlash","Matematik formula","Jadval"],"c":1},
+      {"q":"Blok-sxemada to'rtburchak nima anglatadi?","o":["Shart","Amal (buyruq)","Boshlash/Tugash","Ma'lumot kiritish"],"c":1},
+      {"q":"Blok-sxemada romb nima anglatadi?","o":["Amal","Boshlash","Shart (savol)","Tugash"],"c":2},
+      {"q":"Bajaruvchi nima?","o":["Dastur","Algoritmni bajara oladigan ob'ekt","Kompyuter tili","Fayl"],"c":1},
+      {"q":"Algoritmda buyruqlar qanday tartibda bajariladi?","o":["Ixtiyoriy tartibda","Ketma-ket, yuqoridan pastga","Pastdan yuqoriga","Tasodifiy"],"c":1},
+      {"q":"Qaysi misol algoritm emas?","o":["Non yopish tartibi","Maktabga borish yo'li","Quyoshning chiqishi","Matematik masala yechish"],"c":2}
+    ]
+  },
+  "4": {
+    "Operatsion tizim": [
+      {"q":"Operatsion tizim nima?","o":["Faqat o'yin dasturi","Kompyuter qurilmalarini va dasturlarni boshqaruvchi asosiy dastur","Fayl turi","Internet brauzeri"],"c":1},
+      {"q":"Windows qaysi kompaniya mahsuloti?","o":["Apple","Google","Microsoft","IBM"],"c":2},
+      {"q":"Linux operatsion tizimi qanday tarqaladi?","o":["Pullik","Bepul va ochiq kodli","Faqat serverlar uchun","Faqat telefonlar uchun"],"c":1},
+      {"q":"macOS qaysi kompaniya mahsuloti?","o":["Microsoft","Google","Samsung","Apple"],"c":3},
+      {"q":"Ish stoli (Desktop) nima?","o":["Internet sahifasi","OT yoqilganda ko'rinadigan asosiy ish maydoni","Papka","Dastur"],"c":1},
+      {"q":"Topbar (Vazifalar paneli) nima?","o":["Internet brauzeri","Ekran pastidagi dasturlar va vaqt ko'rsatiladigan panel","Papka","Fayl"],"c":1},
+      {"q":"Windows'da dasturni qanday yopish mumkin?","o":["Delete bosish","X (yopish) tugmasini bosish","Kompyuterni o'chirish","Klaviaturadan Esc bosish"],"c":1},
+      {"q":"OT'ning asosiy vazifasi nima?","o":["Faqat internet","Qurilmalar va dasturlar o'rtasida vositachi bo'lish","Faqat fayl saqlash","Faqat rasm ko'rsatish"],"c":1},
+      {"q":"Windows'da fayllarni boshqarish uchun?","o":["Internet Explorer","File Explorer (Fayl menejeri)","Paint","Word"],"c":1},
+      {"q":"Kompyuter xotirasi RAM nima?","o":["Doimiy xotira","Vaqtinchalik (tezkor) xotira","Hard disk","USB flesh"],"c":1},
+      {"q":"Windows'da dastur o'rnatish uchun?","o":["Faylni o'chirish","Setup yoki installer faylini ishga tushirish","Papka ochish","Restart qilish"],"c":1},
+      {"q":"Qaysi OT smartfonlarda ko'p ishlatiladi?","o":["Windows","Linux","Android va iOS","macOS"],"c":2}
+    ],
+    "Scratch dasturlash": [
+      {"q":"Scratch nima?","o":["Matn muharriri","Bolalar uchun vizual dasturlash muhiti","Rasm dasturi","Matematik dastur"],"c":1},
+      {"q":"Scratch'da asosiy belgi nima deyiladi?","o":["Ob'ekt","Sprite (Sprite)","Sahna","Skript"],"c":1},
+      {"q":"Scratch'da buyruqlar qanday beriladi?","o":["Matn yozib","Bloklar sudrab qo'yib","Rasm chizib","Formula yozib"],"c":1},
+      {"q":"Scratch'da harakat bloklari nima qiladi?","o":["Ovoz chiqaradi","Spriteni harakatlantiradi","Rang o'zgartiradi","Saqlaydi"],"c":1},
+      {"q":"Scratch'da 'Forever' (Doim) bloki nima qiladi?","o":["Bir marta bajaradi","Ichidagi buyruqlarni cheksiz qaytaradi","To'xtatadi","Saqlaydi"],"c":1},
+      {"q":"Scratch'da sahna nima?","o":["Sprite","Dastur ishlaydi ko'rinadigan fon","Blok","Skript"],"c":1},
+      {"q":"Scratch'da 'If' bloki nima?","o":["Sikl","Shart operatori","Harakat","Ovoz"],"c":1},
+      {"q":"Scratch'da loyihani saqlash uchun?","o":["Fayl → Saqlash","Delete bosish","Sprite o'chirish","Sahna o'zgartirish"],"c":0},
+      {"q":"Scratch'da ovoz qo'shish uchun qaysi blok kategoriyasi?","o":["Harakat","Ko'rinish","Ovoz","Hodisa"],"c":2},
+      {"q":"Scratch'da 'When green flag clicked' nima?","o":["Dasturni to'xtatadi","Yashil bayroq bosilganda dastur boshlanadi","Saqlaydi","Spriteni o'chiradi"],"c":1},
+      {"q":"Scratch'da koordinata tizimi markazi qayerda?","o":["Yuqori chap burchak","Pastki o'ng burchak","Sahna markazi (0,0)","Yuqori o'ng burchak"],"c":2},
+      {"q":"Scratch'da 'Repeat' bloki nima?","o":["Bir marta bajaradi","Belgilangan marta qaytaradi","Cheksiz qaytaradi","To'xtatadi"],"c":1}
+    ]
+  },
+  "5": {
+    "Axborot jarayonlari": [
+      {"q":"Axborotning asosiy jarayonlari qaysilar?","o":["Faqat saqlash","Yig'ish, saqlash, qayta ishlash, uzatish","Faqat uzatish","Faqat yig'ish"],"c":1},
+      {"q":"Bit nima?","o":["Bayt turi","Axborotning eng kichik o'lchov birligi (0 yoki 1)","Fayl o'lchami","Tezlik o'lchami"],"c":1},
+      {"q":"1 bayt necha bitdan iborat?","o":["4","16","8","2"],"c":2},
+      {"q":"1 kilobayt necha bayt?","o":["100","1000","1024","512"],"c":2},
+      {"q":"1 megabayt necha kilobayt?","o":["100","1000","1024","512"],"c":2},
+      {"q":"Axborotni kodlash nima?","o":["Axborotni o'chirish","Axborotni ma'lum belgilar tizimiga o'tkazish","Axborotni uzatish","Axborotni saqlash"],"c":1},
+      {"q":"Kompyuter qanday axborot tushunadi?","o":["Faqat matn","Faqat rasm","0 va 1 (ikkilik tizim)","Faqat raqam"],"c":2},
+      {"q":"Ma'lumotlar bazasi nima?","o":["Dastur turi","Tartibli saqlangan ma'lumotlar to'plami","Fayl turi","Internet sahifasi"],"c":1},
+      {"q":"Axborot xavfsizligi nima?","o":["Faqat parol qo'yish","Axborotni ruxsatsiz kirishdan himoya qilish","Faqat antivirus","Fayl saqlash"],"c":1},
+      {"q":"Virus nima?","o":["Foydali dastur","Zararli dastur (zararkunanda)","Fayl turi","Internet tezligi"],"c":1},
+      {"q":"Antivirus nima qiladi?","o":["Fayllarni saqlaydi","Zararli dasturlarni topib o'chiradi","Internet tezlashtiradi","Rasm chizadi"],"c":1},
+      {"q":"Parol qanday bo'lishi kerak?","o":["Qisqa va oddiy","Murakkab, uzun, turli belgilar bilan","Faqat raqamdan","Ismingiz"],"c":1}
+    ],
+    "PowerPoint taqdimot": [
+      {"q":"PowerPoint nima uchun?","o":["Hisob-kitob uchun","Taqdimot slaydlari yaratish uchun","Matn yozish uchun","Rasm chizish uchun"],"c":1},
+      {"q":"Taqdimotdagi har bir sahifa nima deyiladi?","o":["Bet","Slаyd","Papka","Fayl"],"c":1},
+      {"q":"PowerPoint'da yangi slayd qo'shish uchun?","o":["Fayl → Yangi","Insert → Yangi slayd","View → Yangi","Format → Yangi"],"c":1},
+      {"q":"Slaydga rasm qo'shish uchun?","o":["Fayl → Rasm","Insert → Rasm","View → Rasm","Format → Rasm"],"c":1},
+      {"q":"Taqdimotni ko'rsatish uchun (Slideshow)?","o":["F1","F5","F10","F12"],"c":1},
+      {"q":"PowerPoint fayl kengaytmasi qaysi?","o":[".docx",".xlsx",".pptx",".txt"],"c":2},
+      {"q":"Slayd dizaynini o'zgartirish uchun?","o":["Fayl → Dizayn","Design (Dizayn) bo'limi","View → Dizayn","Insert → Dizayn"],"c":1},
+      {"q":"Matnni slaydga qo'shish uchun?","o":["Rasm qo'shish","Matn qutisi (Text Box) qo'shish","Jadval qo'shish","Video qo'shish"],"c":1},
+      {"q":"Animatsiya nima?","o":["Slayd fonini o'zgartirish","Slayd elementlarining harakatlanishi","Rasm qo'shish","Matn o'zgartirish"],"c":1},
+      {"q":"Slide transition (o'tish) nima?","o":["Matn effekti","Bir slayddan ikkinchisiga o'tish animatsiyasi","Rasm effekti","Ovoz effekti"],"c":1},
+      {"q":"Taqdimotni PDF ko'rinishida saqlash uchun?","o":["Fayl → Saqlash","Fayl → Eksport → PDF","Fayl → Chop etish","View → PDF"],"c":1},
+      {"q":"Slaydda nechta makon bo'lishi tavsiya etiladi?","o":["Iloji boricha ko'p matn","Kam matn, ko'p rasm va grafik","Faqat matn","Faqat rasm"],"c":1}
+    ]
+  },
+  "6": {
+    "Axborotni kodlash": [
+      {"q":"Ikkilik sanoq tizimi nechta raqam ishlatadi?","o":["8","10","2","16"],"c":2},
+      {"q":"O'nlik tizimda 10 ikkilikda qanday?","o":["1000","1010","1100","0101"],"c":1},
+      {"q":"Ikkilik 1111 o'nlikda necha?","o":["13","14","15","16"],"c":2},
+      {"q":"1 bayt necha bitga teng?","o":["4","6","8","16"],"c":2},
+      {"q":"ASCII nima?","o":["Dasturlash tili","Belgilarni raqamlarga moslashtiruvchi kodlash tizimi","Fayl formati","Tarmoq protokoli"],"c":1},
+      {"q":"O'nlik 5 ikkilikda nima?","o":["100","101","110","011"],"c":1},
+      {"q":"Piksel nima?","o":["Ovoz birligi","Rasmning eng kichik nuqtasi","Fayl o'lchami","Tezlik birligi"],"c":1},
+      {"q":"O'nlik 0 ikkilikda nima?","o":["1","00","0","10"],"c":2},
+      {"q":"Ikkilik 1010 o'nlikda necha?","o":["8","9","10","11"],"c":2},
+      {"q":"O'nlik 8 ikkilikda nima?","o":["0111","1000","1001","1010"],"c":1},
+      {"q":"Rangni kodlashda RGB nima?","o":["3 ta asosiy rang (Qizil, Yashil, Ko'k)","3 ta papka","3 ta fayl","3 ta dastur"],"c":0},
+      {"q":"O'nlik 1 ikkilikda nima?","o":["0","1","10","11"],"c":1}
+    ],
+    "Tarmoqlanuvchi algoritm": [
+      {"q":"Tarmoqlanuvchi algoritmda nima bo'ladi?","o":["Hamma buyruq bajariladi","Shartga qarab turli buyruqlar bajariladi","Sikl ishlatiladi","Hech narsa bajarilmaydi"],"c":1},
+      {"q":"If-else konstruksiyasi nima?","o":["Sikl","Agar-aks holda shart operatori","Funksiya","Massiv"],"c":1},
+      {"q":"Blok-sxemada shart qanday belgi bilan ko'rsatiladi?","o":["To'rtburchak","Romb","Aylana","Parallelogram"],"c":1},
+      {"q":"Switch (case) operatori nima?","o":["Sikl","Ko'p qiymatli shart operatori","Funksiya","Massiv"],"c":1},
+      {"q":"Boolean qiymat nima?","o":["Raqam","To'g'ri (True) yoki Noto'g'ri (False) qiymat","Matn","Ro'yxat"],"c":1},
+      {"q":"Mantiqiy AND operatsiyasi nima?","o":["Ikkalasi ham to'g'ri bo'lsa natija to'g'ri","Biri to'g'ri bo'lsa natija to'g'ri","Teskari qiymat","Yig'indi"],"c":0},
+      {"q":"Mantiqiy OR operatsiyasi nima?","o":["Ikkalasi ham to'g'ri bo'lishi shart","Biri to'g'ri bo'lsa natija to'g'ri","Teskari qiymat","Ko'paytma"],"c":1},
+      {"q":"NOT operatsiyasi nima qiladi?","o":["Qo'shadi","Qiymatni teskarisiga o'zgartiradi","Ko'paytiradi","Ajratadi"],"c":1},
+      {"q":"Qaysi shart har doim to'g'ri?","o":["5 > 10","3 = 5","1 < 2","0 > 1"],"c":2},
+      {"q":"Qaysi shart har doim noto'g'ri?","o":["2 > 1","5 >= 5","3 < 2","4 = 4"],"c":2},
+      {"q":"Ichma-ich shart nima?","o":["Oddiy shart","Bir shart ichida boshqa shart bo'lishi","Sikl","Funksiya"],"c":1},
+      {"q":"Algoritm necha xil bo'ladi?","o":["2 xil","3 xil (chiziqli, tarmoqlanuvchi, siklli)","4 xil","1 xil"],"c":1}
+    ]
+  },
+  "7": {
+    "Excel elektron jadvallar": [
+      {"q":"Excel nima uchun?","o":["Taqdimot yaratish","Raqamli ma'lumotlar va hisob-kitob uchun","Matn yozish","Rasm chizish"],"c":1},
+      {"q":"Excel'da katak (cell) nima?","o":["Ustun","Qator va ustun kesishmasidagi maydon","Varaq","Fayl"],"c":1},
+      {"q":"Excel'da A1 nima?","o":["Fayl nomi","1-qator, A-ustundagi katak manzili","Funksiya","Formula"],"c":1},
+      {"q":"Excel'da formula qanday boshlanadi?","o":["# belgisi","= belgisi","$ belgisi","@ belgisi"],"c":1},
+      {"q":"Excel'da yig'indini hisoblash funksiyasi?","o":["=COUNT()","=AVERAGE()","=SUM()","=MAX()"],"c":2},
+      {"q":"Excel'da o'rtacha qiymat funksiyasi?","o":["=SUM()","=AVERAGE()","=MIN()","=COUNT()"],"c":1},
+      {"q":"Excel'da eng katta qiymat funksiyasi?","o":["=MIN()","=SUM()","=AVERAGE()","=MAX()"],"c":3},
+      {"q":"Excel'da eng kichik qiymat funksiyasi?","o":["=MAX()","=MIN()","=SUM()","=COUNT()"],"c":1},
+      {"q":"Excel fayl kengaytmasi?","o":[".docx",".pptx",".xlsx",".txt"],"c":2},
+      {"q":"Excel'da diagramma nima uchun?","o":["Matn yozish","Ma'lumotlarni grafik ko'rinishda tasvirlash","Hisoblash","Saqlash"],"c":1},
+      {"q":"Excel'da qator (row) qanday belgilanadi?","o":["Harflar bilan","Raqamlar bilan","Belgilar bilan","Ranglar bilan"],"c":1},
+      {"q":"Excel'da ustun (column) qanday belgilanadi?","o":["Raqamlar bilan","Harflar bilan (A, B, C...)","Belgilar bilan","Ranglar bilan"],"c":1}
+    ],
+    "Internet va xavfsizlik": [
+      {"q":"Internet nima?","o":["Kompyuter dasturi","Butun dunyodagi kompyuterlarni bog'laydigan global tarmoq","Operatsion tizim","Fayl turi"],"c":1},
+      {"q":"WWW nima?","o":["Tarmoq protokoli","World Wide Web — internet sahifalari tizimi","Elektron pochta","Brauzer nomi"],"c":1},
+      {"q":"Brauzer nima?","o":["Internet tezligi","Internet sahifalarini ko'rish dasturi","Elektron pochta dasturi","Antivirus"],"c":1},
+      {"q":"URL nima?","o":["Dastur nomi","Internet sahifasining manzili","Fayl nomi","Parol"],"c":1},
+      {"q":"HTTP nima?","o":["Fayl formati","Internet sahifalarini uzatish protokoli","Dastur nomi","Tarmoq qurilmasi"],"c":1},
+      {"q":"Fishing (Phishing) nima?","o":["Baliq ovlash","Foydalanuvchini aldab ma'lumot o'g'irlash","Antivirus","Brauzer turi"],"c":1},
+      {"q":"Kuchli parol qanday bo'lishi kerak?","o":["Faqat raqamdan, 4 ta","Uzun, harflar, raqamlar va belgilar bilan","Ismingiz","Sana"],"c":1},
+      {"q":"Spam nima?","o":["Foydali xabar","Ruxsatsiz yuborilgan ommaviy xabarlar","Antivirus","Brauzer"],"c":1},
+      {"q":"VPN nima?","o":["Virus turi","Virtual xususiy tarmoq (shifrlangan ulanish)","Brauzer","Elektron pochta"],"c":1},
+      {"q":"Cookie (Kuki) nima?","o":["Virus","Brauzer saqlaydigan veb-sayt ma'lumotlari","Parol","Fayl"],"c":1},
+      {"q":"HTTPS HTTP dan farqi nima?","o":["Tezroq","Shifrlangan va xavfsiz ulanish","Kattaroq","Yangiroq"],"c":1},
+      {"q":"Ikki bosqichli autentifikatsiya nima?","o":["Ikki parol","Parol + qo'shimcha tasdiqlash (SMS, app)","Ikki brauzer","Ikki kompyuter"],"c":1}
+    ]
+  },
+  "8": {
+    "Sanoq tizimlari": [
+      {"q":"O'nlik sanoq tizimida nechta raqam bor?","o":["2","8","10","16"],"c":2},
+      {"q":"Ikkilik sanoq tizimida nechta raqam bor?","o":["2","8","10","16"],"c":0},
+      {"q":"Sakkizlik sanoq tizimida nechta raqam bor?","o":["2","8","10","16"],"c":1},
+      {"q":"O'n oltilik tizimda A harfi qanday qiymatga ega?","o":["10","11","12","13"],"c":0},
+      {"q":"Ikkilik 1100 o'nlikda necha?","o":["10","11","12","13"],"c":2},
+      {"q":"O'nlik 15 o'n oltilikda nima?","o":["E","F","D","A"],"c":1},
+      {"q":"O'nlik 7 ikkilikda nima?","o":["110","111","101","011"],"c":1},
+      {"q":"Ikkilik 10000 o'nlikda necha?","o":["14","15","16","17"],"c":2},
+      {"q":"Sakkizlik 17 o'nlikda necha?","o":["14","15","17","16"],"c":1},
+      {"q":"O'n oltilik FF o'nlikda necha?","o":["254","255","256","253"],"c":1},
+      {"q":"O'nlik 10 ikkilikda nima?","o":["1001","1010","1011","1100"],"c":1},
+      {"q":"Kompyuter nima uchun ikkilik tizim ishlatadi?","o":["Chiroyliroq","Elektronika 2 holat (yoq/o'ch) ni oson farqlaydi","Tezroq","Kichikroq"],"c":1}
+    ],
+    "Python asoslari": [
+      {"q":"Python qanday til?","o":["Kompilatsiya qilinadigan","Interpretatsiya qilinadigan yuqori darajali dasturlash tili","Faqat veb uchun","Faqat matematik uchun"],"c":1},
+      {"q":"Python'da chop etish funksiyasi?","o":["echo()","printf()","print()","write()"],"c":2},
+      {"q":"Python'da izoh (comment) qanday boshlanadi?","o":["//","/*","#","--"],"c":2},
+      {"q":"Python'da o'zgaruvchi e'lon qilish uchun?","o":["var x = 5","int x = 5","x = 5","let x = 5"],"c":2},
+      {"q":"Python'da input() nima qiladi?","o":["Chop etadi","Foydalanuvchidan ma'lumot oladi","Hisoblaydi","Saqlaydi"],"c":1},
+      {"q":"Python'da if bloki qanday tugaydi?","o":["end","endif",":  (ikki nuqta)","{}"],"c":2},
+      {"q":"Python'da while sikli nima?","o":["Bir marta bajaradigan","Shart to'g'ri bo'lguncha takrorlaydigan","Ro'yxat uchun","Funksiya"],"c":1},
+      {"q":"Python'da for sikli nima uchun?","o":["Shart tekshirish","Ketma-ket elementlar ustida ishlash","Funksiya aniqlash","O'zgaruvchi"],"c":1},
+      {"q":"Python'da list (ro'yxat) qanday yoziladi?","o":["(1, 2, 3)","[1, 2, 3]","{1, 2, 3}","<1, 2, 3>"],"c":1},
+      {"q":"Python'da def kalit so'zi nima?","o":["O'zgaruvchi","Funksiya aniqlash","Sikl","Shart"],"c":1},
+      {"q":"Python'da len() nima qiladi?","o":["Yig'indini hisoblaydi","Elementlar sonini qaytaradi","Tartiblaydi","O'chiradi"],"c":1},
+      {"q":"Python'da indentatsiya (bo'sh joy) nima uchun?","o":["Chiroyli ko'rinish uchun","Kod blokini aniqlash uchun (majburiy)","Izoh uchun","Tezlashtirish uchun"],"c":1}
+    ]
+  },
+  "9": {
+    "HTML asoslari": [
+      {"q":"HTML nima?","o":["Dasturlash tili","Veb sahifalarni belgilash tili","Stil tili","Ma'lumotlar bazasi tili"],"c":1},
+      {"q":"HTML'da teg nima?","o":["O'zgaruvchi","< > ichida yoziladigan belgilash elementi","Funksiya","Atribut"],"c":1},
+      {"q":"HTML sahifa qaysi teg bilan boshlanadi?","o":["<body>","<html>","<head>","<title>"],"c":1},
+      {"q":"HTML'da sarlavha teglari qaysilar?","o":["<p>","<h1> dan <h6> gacha","<div>","<span>"],"c":1},
+      {"q":"HTML'da paragraf tegi?","o":["<br>","<p>","<div>","<span>"],"c":1},
+      {"q":"HTML'da havola (link) tegi?","o":["<link>","<a>","<href>","<url>"],"c":1},
+      {"q":"HTML'da rasm qo'shish tegi?","o":["<image>","<picture>","<img>","<photo>"],"c":2},
+      {"q":"HTML'da jadval tegi?","o":["<grid>","<list>","<table>","<frame>"],"c":2},
+      {"q":"HTML'da ro'yxat elementi tegi?","o":["<list>","<item>","<li>","<ul>"],"c":2},
+      {"q":"CSS nima?","o":["Dasturlash tili","HTML elementlarini stillashtirish tili","Ma'lumotlar bazasi","Server tili"],"c":1},
+      {"q":"HTML'da <br> tegi nima qiladi?","o":["Paragraf ochadi","Qator uzilishi qo'shadi","Havola qo'shadi","Rasm qo'shadi"],"c":1},
+      {"q":"HTML faylining kengaytmasi?","o":[".css",".js",".html",".php"],"c":2}
+    ],
+    "Python funksiyalar va ro'yxatlar": [
+      {"q":"Python'da ro'yxatga element qo'shish?","o":["list.add()","list.insert()","list.append()","list.push()"],"c":2},
+      {"q":"Python'da ro'yxatdan element o'chirish?","o":["list.delete()","list.remove()","list.erase()","list.clear()"],"c":1},
+      {"q":"Python'da ro'yxatni tartiblash?","o":["list.order()","list.arrange()","list.sort()","list.organize()"],"c":2},
+      {"q":"Python'da funksiya qanday chaqiriladi?","o":["call funksiya_nomi()","funksiya_nomi()","run funksiya_nomi()","exec funksiya_nomi()"],"c":1},
+      {"q":"Python'da return nima qiladi?","o":["Funksiyani to'xtatadi","Qiymat qaytaradi va funksiyani tugatadi","Chop etadi","Sikl tugatadi"],"c":1},
+      {"q":"Python'da *args nima?","o":["Bitta argument","Ixtiyoriy sondagi argumentlar","Kalit-qiymat argumentlar","Majburiy argument"],"c":1},
+      {"q":"Python'da dictionary (lug'at) qanday yoziladi?","o":["[kalit: qiymat]","(kalit: qiymat)","{kalit: qiymat}","<kalit: qiymat>"],"c":2},
+      {"q":"Python'da slice (kesim) nima?","o":["O'chirish","Ro'yxat qismini olish [boshlash:tugash]","Tartiblash","Qidirish"],"c":1},
+      {"q":"Python'da range(5) nima qaytaradi?","o":["1,2,3,4,5","0,1,2,3,4","0,1,2,3,4,5","1,2,3,4"],"c":1},
+      {"q":"Python'da rekursiya nima?","o":["Sikl","Funksiyaning o'zini o'zi chaqirishi","Massiv","Shart"],"c":1},
+      {"q":"Python'da lambda nima?","o":["Ro'yxat","Nomsiz (anonim) funksiya","Sikl","Shart"],"c":1},
+      {"q":"Python'da try-except nima uchun?","o":["Sikl uchun","Xatolarni ushlash va boshqarish uchun","Funksiya uchun","Ro'yxat uchun"],"c":1}
+    ]
+  },
+  "10": {
+    "Mantiq algebrasi": [
+      {"q":"Mantiq algebrasining asoschisi kim?","o":["Alan Turing","Jorj Bul (George Boole)","Blez Paskal","Jon fon Neyman"],"c":1},
+      {"q":"AND operatsiyasi jadvalida 1 AND 1 = ?","o":["0","1","2","Aniqlanmagan"],"c":1},
+      {"q":"OR operatsiyasida 0 OR 0 = ?","o":["0","1","2","Aniqlanmagan"],"c":0},
+      {"q":"NOT 1 = ?","o":["1","0","2","Aniqlanmagan"],"c":1},
+      {"q":"AND operatsiyasida 1 AND 0 = ?","o":["1","0","Aniqlanmagan","2"],"c":1},
+      {"q":"OR operatsiyasida 1 OR 0 = ?","o":["0","1","2","Aniqlanmagan"],"c":1},
+      {"q":"XOR operatsiyasi nima?","o":["Oddiy OR","Ikkalasi ham bir xil bo'lsa 0, farqli bo'lsa 1","Oddiy AND","NOT"],"c":1},
+      {"q":"De Morgan qonuni: NOT(A AND B) = ?","o":["NOT A AND NOT B","NOT A OR NOT B","A OR B","A AND B"],"c":1},
+      {"q":"Mantiqiy ifodada qanday qiymatlar bo'ladi?","o":["0 dan 9 gacha","Faqat 0 va 1","Ixtiyoriy raqam","Harflar"],"c":1},
+      {"q":"NAND = ?","o":["NOT AND","NOT OR","AND","OR"],"c":0},
+      {"q":"NOR = ?","o":["NOT AND","NOT OR","AND","OR"],"c":1},
+      {"q":"Mantiqiy sxema nima?","o":["Dastur kodi","Mantiqiy elementlardan tuzilgan elektron sxema","Jadval","Formula"],"c":1}
+    ],
+    "SQL asoslari": [
+      {"q":"SQL nima?","o":["Dasturlash tili","Ma'lumotlar bazasiga so'rov tili","Veb tili","Fayl formati"],"c":1},
+      {"q":"SQL'da ma'lumot olish uchun qaysi buyruq?","o":["INSERT","UPDATE","SELECT","DELETE"],"c":2},
+      {"q":"SQL'da yangi ma'lumot qo'shish uchun?","o":["SELECT","UPDATE","DELETE","INSERT INTO"],"c":3},
+      {"q":"SQL'da ma'lumot o'zgartirish uchun?","o":["SELECT","INSERT","UPDATE","DELETE"],"c":2},
+      {"q":"SQL'da ma'lumot o'chirish uchun?","o":["SELECT","INSERT","UPDATE","DELETE"],"c":3},
+      {"q":"SQL'da WHERE nima?","o":["Tartiblash","Shart qo'yish","Guruhlash","Birlashtirish"],"c":1},
+      {"q":"SQL'da ORDER BY nima?","o":["Shart","Tartiblash","Guruhlash","Filtrlash"],"c":1},
+      {"q":"SQL'da COUNT() nima qiladi?","o":["Yig'indi","Qatorlar sonini hisoblaydi","O'rtacha","Eng katta"],"c":1},
+      {"q":"Jadval (table) nima?","o":["Fayl","Qatorlar va ustunlardan iborat ma'lumotlar tuzilmasi","Dastur","So'rov"],"c":1},
+      {"q":"Primary key nima?","o":["Parol","Har bir qatorni yagona belgilaydigan kalit","Ustun nomi","Jadval nomi"],"c":1},
+      {"q":"SQL'da LIKE operatori nima uchun?","o":["Raqam solishtirish","Matn namunasiga moslik tekshirish","Tartiblash","Guruhlash"],"c":1},
+      {"q":"SQL'da JOIN nima?","o":["O'chirish","Ikki jadvalni birlashtirish","Saralash","Filtrlash"],"c":1}
+    ]
+  },
+  "11": {
+    "Kiberxavfsizlik": [
+      {"q":"Kiberxavfsizlik nima?","o":["Faqat antivirus","Raqamli tizimlarni hujumlardan himoya qilish","Faqat parol","Internet tezligi"],"c":1},
+      {"q":"Brute force hujumi nima?","o":["Virus yuborish","Barcha mumkin kombinatsiyalarni sinab parol topish","Fishing","Spam"],"c":1},
+      {"q":"SQL injection nima?","o":["Oddiy so'rov","Ma'lumotlar bazasiga zararli SQL kodi kiritish hujumi","Virus","Spam"],"c":1},
+      {"q":"XSS hujumi nima?","o":["Tarmoq hujumi","Veb sahifaga zararli skript kiritish","Parol hujumi","Fishing"],"c":1},
+      {"q":"DDoS hujumi nima?","o":["Virus yuborish","Serverni so'rovlar bilan to'ldirib ishdan chiqarish","Fishing","SQL injection"],"c":1},
+      {"q":"Shifrlash (encryption) nima?","o":["Faylni o'chirish","Ma'lumotni maxfiy kodga o'tkazish","Parol qo'yish","Antivirus"],"c":1},
+      {"q":"Firewall nima?","o":["Antivirus","Tarmoq trafikini nazorat qiluvchi himoya tizimi","Brauzer","Operatsion tizim"],"c":1},
+      {"q":"HTTPS qanday himoya qiladi?","o":["Virusdan","Ma'lumotlarni shifrlangan kanal orqali uzatib","Paroldan","Spamdan"],"c":1},
+      {"q":"Ransomware nima?","o":["Foydali dastur","Fayllarni shifrlap to'lov talab qiluvchi zararli dastur","Antivirus","Brauzer"],"c":1},
+      {"q":"Zero-day zaiflik nima?","o":["Eski xato","Hali tuzatilmagan va hujumchilar biladigan zaiflik","Parol xatosi","Tarmoq muammosi"],"c":1},
+      {"q":"Social engineering nima?","o":["Dasturlash usuli","Odamlarni aldab maxfiy ma'lumot olish","Tarmoq hujumi","Virus turi"],"c":1},
+      {"q":"Penetration testing nima?","o":["Virus yaratish","Tizim zaifliklarini topish uchun ruxsat bilan hujum sinovi","Antivirus","Shifrlash"],"c":1}
+    ],
+    "Sun'iy intellekt asoslari": [
+      {"q":"Sun'iy intellekt (AI) nima?","o":["Robot","Kompyuterning inson kabi fikrlash va o'rganish qobiliyati","Internet","Dastur turi"],"c":1},
+      {"q":"Machine Learning nima?","o":["Dasturlash tili","Kompyuterni ma'lumotlardan o'rganishga o'rgatish","Operatsion tizim","Tarmoq"],"c":1},
+      {"q":"Neural network (neyron tarmoq) nima?","o":["Internet tarmog'i","Inson miyasidan ilhomlangan sun'iy o'rganish tizimi","Kompyuter tarmog'i","Dastur"],"c":1},
+      {"q":"Deep learning nima?","o":["Oddiy dasturlash","Ko'p qatlamli neyron tarmoqlarga asoslangan o'rganish","Matematik formula","Fayl tizimi"],"c":1},
+      {"q":"ChatGPT qanday tizim?","o":["Qidiruv tizimi","Katta til modeli (LLM)","Tarjima dasturi","Antivirus"],"c":1},
+      {"q":"Computer vision nima?","o":["Monitor","Kompyuterning rasmlarni tushunish qobiliyati","Kamera","Grafik karta"],"c":1},
+      {"q":"NLP nima?","o":["Tarmoq protokoli","Tabiiy tilni qayta ishlash (Natural Language Processing)","Dasturlash tili","Fayl formati"],"c":1},
+      {"q":"Training data nima?","o":["Test natijasi","Modelni o'rgatish uchun ishlatiladigan ma'lumotlar","Dastur kodi","Internet sahifasi"],"c":1},
+      {"q":"Overfitting nima?","o":["Yaxshi natija","Model trening ma'lumotlarini yod oladi, yangi ma'lumotlarga zaiflashadi","Kam xato","Tez ishlash"],"c":1},
+      {"q":"AI'da bias (xolislik muammosi) nima?","o":["Tezlik muammosi","Trening ma'lumotlaridagi noto'g'ri xolislik natijalarga ta'sir qilishi","Xotira muammosi","Dastur xatosi"],"c":1},
+      {"q":"Reinforcement learning nima?","o":["Ma'lumotlardan o'rganish","Mukofot va jazo orqali o'rganish","Rasmlardan o'rganish","Matndan o'rganish"],"c":1},
+      {"q":"GPT so'zining qisqartmasi?","o":["General Purpose Technology","Generative Pre-trained Transformer","Global Processing Tool","Graphic Processing Terminal"],"c":1}
+    ]
+  }
+}

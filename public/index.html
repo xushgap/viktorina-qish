@@ -74,7 +74,7 @@ input:focus{border-color:var(--pr);outline:0}
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
 <script>
 const SYM=["▲","◆","●","■"],QT=20000;
-const TOPICS={1:["Kompyuter bilan tanishuv","Sichqoncha va klaviatura","Paint dasturi"],2:["Kompyuter qurilmalari","Fayl va papka"],3:["Axborot va uning turlari","Algoritm tushunchasi"],4:["Operatsion tizim","Scratch dasturlash"],5:["Axborot jarayonlari","PowerPoint taqdimot"],6:["Axborotni kodlash","Tarmoqlanuvchi algoritm"],7:["Excel elektron jadvallar","Internet va xavfsizlik"],8:["Sanoq tizimlari","Python asoslari"],9:["HTML asoslari","Python funksiyalar"],10:["Mantiq algebrasi","SQL asoslari"],11:["Kiberxavfsizlik","Sunʼiy intellekt asoslari"]};
+const TOPICS={1:["Kompyuter bilan tanishuv","Sichqoncha va klaviatura","Paint dasturi"],2:["Kompyuter qurilmalari","Fayl va papka"],3:["Axborot va uning turlari","Algoritm tushunchasi"],4:["Operatsion tizim","Scratch dasturlash"],5:["Axborot jarayonlari","PowerPoint taqdimot"],6:["Axborotni kodlash","Tarmoqlanuvchi algoritm"],7:["Excel elektron jadvallar","Internet va xavfsizlik"],8:["Sanoq tizimlari","Python asoslari"],9:["HTML asoslari","Python funksiyalar va ro'yxatlar"],10:["Mantiq algebrasi","SQL asoslari"],11:["Kiberxavfsizlik","Sunʼiy intellekt asoslari"]};
 const $=s=>document.querySelector(s),app=$("#app");
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let roomApi=null,sampleApi=null,R=null,peers=[],S={grade:0,topic:"",qs:[],code:"",name:"",G:null,scores:{},timer:null,loc:{qi:-1,at:0,ans:null},unsub:null,err:""};

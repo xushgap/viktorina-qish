@@ -16,7 +16,7 @@ module.exports = async (req, res) => {
         "Authorization": `Bearer ${process.env.GROQ_API_KEY}`
       },
       body: JSON.stringify({
-        model: "llama3-8b-8192",
+        model: "qwen/qwen3-8b",
         max_tokens: 4096,
         temperature: 0.7,
         messages: [
